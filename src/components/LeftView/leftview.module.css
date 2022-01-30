@@ -1,0 +1,29 @@
+.leftview { 
+    width: 15%;
+    height: 100vh;
+    background-color: #000000;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+.title {
+    color: #ffffff;
+    padding: 15px;
+    font-size: 1.5rem;
+    
+}
+
+
+.option {
+  color:#ffffff;
+  padding: 4vh 0;
+  width: 100%;
+  border-bottom: 1px solid #ffffff;
+} 
+
+
+.option:hover {
+    cursor: pointer;
+    background-color: #252525;
+}
